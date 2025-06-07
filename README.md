@@ -47,22 +47,6 @@ Selecciona un pivote, divide la lista en menores y mayores al pivote, y ordena r
 Convierte la lista en un montículo, extrae el mayor repetidamente y reconstruye el montículo.
 
 
-    **Shell Sort**
-Extiende el Insertion Sort permitiendo comparaciones distantes. Reduce los saltos hasta llegar a 1.
-
-
-    **Radix Sort**
-Ordena los números por dígitos, desde el menos significativo al más. Usa una técnica estable como Counting Sort internamente.
-
-
-    **Counting Sort**
-Cuenta cuántas veces aparece cada valor, luego calcula las posiciones correctas.
-
-
-    **Bucket Sort**
-Distribuye los elementos en varias "cubetas", ordena cada cubeta por separado y los combina.
-
-
 El concepto del **Big O**
 
 Es una notación usada en informática para describir el tiempo o espacio que necesita un algoritmo en función del tamaño de la entrada (n) - Esto nos permite medir la eficiencia del algoritmo en cuestion de tiempo y memoria consumida.
