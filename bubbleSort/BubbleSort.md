@@ -89,4 +89,4 @@ Espada - Pico, No hay cambio - Por lo tanto termina el algoritmo
 Lista post bubble sort
 
 
-    **[Diamante, Espada, Pico, Redstone, Repetidor]**
+**[Diamante, Espada, Pico, Redstone, Repetidor]**
