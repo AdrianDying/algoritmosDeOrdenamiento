@@ -8,7 +8,7 @@ Compara elementos adyacentes y los intercambia si están en el orden incorrecto.
 Tenemos la siguiente lista de palabras:
 
 
-     [Diamante, Redstone, Pico, Repetidor, Espada]
+     Diamante, Redstone, Pico, Repetidor, Espada
 
 
 Comienza el algoritmo
